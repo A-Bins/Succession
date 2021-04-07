@@ -1,0 +1,21 @@
+name: Succession
+version: ${project.version}
+main: com.bins.succession.Succession
+api-version: 1.16
+authors: [ A_bins, DDang_ ]
+depend: [ ProtocolLib, Citizens, WorldGuard ]
+commands:
+  lobby:
+    aliases: [ l, lo, lob, lobb, spawn, home, 로비, 로, 넴주 ]
+  drop:
+    description: 헿헤
+  Test:
+    description: 헿
+  st:
+    description: 헿
+  lore:
+    aliases: [ 로어, 로, 아이템로어 ]
+  name:
+    aliases: [ n, na, nam, 이름 ]
+  친구:
+    aliases: [ clsrn, friend, friends, fri ]
