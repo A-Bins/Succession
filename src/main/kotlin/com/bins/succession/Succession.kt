@@ -261,7 +261,7 @@ class Succession : JavaPlugin() {
             )
             healthObj.displaySlot = DisplaySlot.BELOW_NAME
         }
-        lateinit  var entityHider: EntityHider
+        lateinit var entityHider: EntityHider
         var b = false
     }
 }

@@ -1,4 +1,4 @@
 # Succession
 
 # Agora's Plugin 
-auther : A_bins, DDang_
+author : A_bins, DDang_
